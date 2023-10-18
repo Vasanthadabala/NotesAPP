@@ -62,6 +62,7 @@ dependencies {
     // Compose dependencies
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
     implementation("androidx.lifecycle:lifecycle-runtime-compose:2.6.2")
+    implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.6.2")
 
     //Ktor
     implementation("io.ktor:ktor-client-android:2.1.3")
